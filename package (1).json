@@ -1,0 +1,13 @@
+{
+  "name": "hotel-brumas-servidor",
+  "version": "1.0.0",
+  "description": "Servidor de notificaciones por correo - Hotel Las Brumas",
+  "main": "server_final.js",
+  "scripts": {
+    "start": "node server_final.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
